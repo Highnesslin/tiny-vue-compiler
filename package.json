@@ -1,0 +1,11 @@
+{
+  "name": "tiny-vue-compiler",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "一个模仿Vue3.x写的玩具编译器",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Lin<2212477518@qq.com>",
+  "license": "MIT"
+}
